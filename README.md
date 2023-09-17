@@ -22,5 +22,5 @@ a resolved file is required when automatic dependency resolution is disabled and
 xcodebuild: error: Could not resolve package dependencies:
   a resolved file is required when automatic dependency resolution is disabled and should be placed at /Users/featherless/workbench/localpackages/LocalPackagesFailOnCloudBuild.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved. Running resolver because the following dependencies were added: 'mypackage' (/Users/featherless/workbench/localpackages/MyPackage)
   fatalError
-```u
+```
 
